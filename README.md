@@ -65,8 +65,6 @@ streamlit run app.py
 ## 🌐 Live Demo
 > Try the app live — no setup needed!
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ipl-score-prediction-model-ss.streamlit.app/)
-
 🔗 **[https://your-app-link.streamlit.app](https://ipl-score-prediction-model-ss.streamlit.app/)**
 
 ---
