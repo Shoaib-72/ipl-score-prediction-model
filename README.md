@@ -62,11 +62,15 @@ streamlit run app.py
 
 ---
 
-## 📦 Requirements
+## 🌐 Live Demo
+> Try the app live — no setup needed!
 
-```
-pandas · numpy · scikit-learn · xgboost · streamlit · plotly · matplotlib · seaborn
-```
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ipl-score-prediction-model-ss.streamlit.app/)
+
+🔗 **[https://your-app-link.streamlit.app](https://ipl-score-prediction-model-ss.streamlit.app/)**
+
+---
+
 
 ---
 
